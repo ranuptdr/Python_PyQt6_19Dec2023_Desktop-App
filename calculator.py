@@ -13,7 +13,6 @@ window.showMaximized() # Show the Window in a maximized state
 # Setting the window title
 window.setWindowTitle("OKLABS Calculator")
 
-
 #  Set Window Icon
 #iconCo = QIcon('icon.png')
 #iconCo = QIcon('./icon.png')
